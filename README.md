@@ -1,6 +1,6 @@
 # chebupeli
 
-A new Flutter project.
+11 ВТИ 23 Ботнарь Игнат и Саидов Фраймон приложение с рецептами для еды 
 
 ## Getting Started
 
